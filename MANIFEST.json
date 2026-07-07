@@ -1,10 +1,12 @@
 {
   "schema": 1,
   "tier": "public",
-  "allowed_count": 4,
+  "allowed_count": 6,
   "blocked_count": 9,
   "files": [
     "nrf52840/_chip/chip_overview.md",
+    "nrf52840/wm1110/hardware_quick_ref.md",
+    "nrf52840/wm1110/memory_map.md",
     "nrf52840/nrf52840dk/hardware_quick_ref.md",
     "nrf5340/_chip/chip_overview.md",
     "nrf5340/thingy53/hardware_quick_ref.md"
